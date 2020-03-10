@@ -1,0 +1,11 @@
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.exe
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.deps.json
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.runtimeconfig.json
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.runtimeconfig.dev.json
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.dll
+C:\Users\USER\NominaEmpresa\bin\Debug\netcoreapp3.1\NominaEmpresa.pdb
+C:\Users\USER\NominaEmpresa\obj\Debug\netcoreapp3.1\NominaEmpresa.csprojAssemblyReference.cache
+C:\Users\USER\NominaEmpresa\obj\Debug\netcoreapp3.1\NominaEmpresa.AssemblyInfoInputs.cache
+C:\Users\USER\NominaEmpresa\obj\Debug\netcoreapp3.1\NominaEmpresa.AssemblyInfo.cs
+C:\Users\USER\NominaEmpresa\obj\Debug\netcoreapp3.1\NominaEmpresa.dll
+C:\Users\USER\NominaEmpresa\obj\Debug\netcoreapp3.1\NominaEmpresa.pdb
